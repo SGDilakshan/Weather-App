@@ -1,6 +1,10 @@
 # 🌤️ Weather App
 A simple, stylish Weather App built using **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api).
 
+![Weather App](Images/img1.png)
+![Provided Proper City](Images/img2.png)
+![Provided Unproper City](Images/img3.png)
+
 ## 🔧 Features
 - 🔍 Search weather by **city name**
 - 🌡️ Display current **temperature**, **humidity**, and **wind speed**
@@ -13,22 +17,6 @@ A simple, stylish Weather App built using **HTML**, **CSS**, and **JavaScript** 
 - CSS3
 - JavaScript (ES6)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
-## 📂 Folder Structure
-weather-app/
-├── index.html
-├── style.css
-├── script.js
-├── Images/
-│ ├── rain.png
-│ ├── clouds.png
-│ ├── clear.png
-│ ├── drizzle.png
-│ ├── mist.png
-│ ├── humidity.png
-│ ├── wind.png
-│ └── search.png
-└── README.md
 
 ## 📌 How to Use
 1. Clone the repository:
